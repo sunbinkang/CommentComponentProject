@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp">
+
+        <EditText
+            android:id="@+id/input_comment_et"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="12dp"
+            android:layout_weight="1"
+            android:background="@drawable/shape_comment_reply_et_bg"
+            android:gravity="start|top"
+            android:hint="有爱评论，说点好听的～"
+            android:maxHeight="102dp"
+            android:maxLength="100"
+            android:textColor="#282828"
+            android:textColorHint="#999999"
+            android:textSize="14dp" />
+
+        <com.kang.commentcomponent.widget.LoadingTextView
+            android:id="@+id/tv_comment_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginEnd="16dp"
+            android:visibility="gone"
+            app:loading_text="发送"
+            app:loading_textColor="#fff73254"
+            app:loading_textSize="14dp"
+            tools:visibility="visible" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_text_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:paddingBottom="7dp"
+        android:text="0/100"
+        android:textColor="#999999"
+        android:textSize="13dp" />
+
+</LinearLayout>

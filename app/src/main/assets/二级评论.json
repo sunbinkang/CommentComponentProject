@@ -1,0 +1,55 @@
+{
+  "code": "0",
+  "msg": "请求处理成功",
+  "detail": "",
+  "head": {},
+  "body": {
+    "total": 0,
+    "data": [
+      {
+        "type": "0",
+        "commentContent": "r123",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 319,
+        "replyCommentId": 320,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 10186,
+          "replyCommentUserName": "15707974725",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 13:36:01",
+        "commentId": 366,
+        "isAuthor": 1,
+        "like": 0,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "？？？",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 319,
+        "replyCommentId": 319,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 10186,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:25:46",
+        "commentId": 352,
+        "isAuthor": 1,
+        "like": 0,
+        "commentCount": 0
+      }
+    ]
+  }
+}

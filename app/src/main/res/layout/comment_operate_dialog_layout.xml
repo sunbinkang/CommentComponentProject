@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@drawable/shape_rectangle_white_top_corner_16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/comment_operate_delete"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="删除"
+        android:textColor="#FF0000"
+        android:visibility="gone"
+        tools:text="删除" />
+
+    <TextView
+        android:id="@+id/comment_operate_reply"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="回复"
+        android:textColor="@color/color_282828"
+        tools:text="回复" />
+
+    <TextView
+        android:id="@+id/comment_operate_copy"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="复制"
+        android:textColor="@color/color_282828"
+        tools:text="复制" />
+
+    <TextView
+        android:id="@+id/comment_operate_report"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="举报"
+        android:textColor="@color/color_282828"
+        tools:text="举报" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="@color/main_bg" />
+
+    <TextView
+        android:id="@+id/comment_operate_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="@color/color_282828"
+        tools:text="取消" />
+</LinearLayout>

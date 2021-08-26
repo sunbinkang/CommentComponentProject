@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/icon_love"
+                android:state_selected="true" />
+            <item
+                android:drawable="@drawable/icon_love_no"
+                android:state_selected="false" />
+        </selector>
+    </item>
+
+</layer-list>

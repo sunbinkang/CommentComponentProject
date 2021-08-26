@@ -1,0 +1,231 @@
+{
+  "code": "0",
+  "msg": "请求处理成功",
+  "detail": "",
+  "head": {},
+  "body": {
+    "total": 0,
+    "data": [
+      {
+        "type": "0",
+        "commentContent": "测试车试车万后侧哇核磁誒村内双方开局双方均为非奇偶瓦尔减",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10048,
+        "userName": "18520874158",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-26 08:37:06",
+        "commentId": 387,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 1
+      },
+      {
+        "type": "0",
+        "commentContent": "522",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 1,
+        "replyTime": "2021-08-25 16:34:08",
+        "commentId": 375,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "我来了",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10057,
+        "userName": "18888888888",
+        "userImgUrl": "",
+        "likeCount": 2,
+        "replyTime": "2021-08-25 16:32:06",
+        "commentId": 374,
+        "isAuthor": 0,
+        "like": 1,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "0808",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 14:13:53",
+        "commentId": 368,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "8080",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10201,
+        "userName": "16666666666",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 14:13:34",
+        "commentId": 367,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 3
+      },
+      {
+        "type": "0",
+        "commentContent": "，，，！",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:25:20",
+        "commentId": 351,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 11
+      },
+      {
+        "type": "0",
+        "commentContent": "，，。",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:25:05",
+        "commentId": 350,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 1
+      },
+      {
+        "type": "0",
+        "commentContent": "！！！",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:21:52",
+        "commentId": 349,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "？？？",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:21:32",
+        "commentId": 348,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 0
+      },
+      {
+        "type": "0",
+        "commentContent": "520",
+        "resourceId": "002945",
+        "msgId": 116,
+        "rootCommentId": 0,
+        "replyCommentId": 0,
+        "feedMsgReplyCommentUserVo": {
+          "replyCommentUserId": 0,
+          "replyCommentUserName": "",
+          "sImgUrl": ""
+        },
+        "userId": 10186,
+        "userName": "15707974725",
+        "userImgUrl": "",
+        "likeCount": 0,
+        "replyTime": "2021-08-25 11:19:54",
+        "commentId": 347,
+        "isAuthor": 0,
+        "like": 0,
+        "commentCount": 0
+      }
+    ]
+  }
+}

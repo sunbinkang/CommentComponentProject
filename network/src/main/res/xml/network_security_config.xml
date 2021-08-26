@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+
+    <domain-config>
+        <domain includeSubdomains="true">restapi.amap.com</domain>
+<!--        <trust-anchors>-->
+<!--            <certificates src="user" />-->
+<!--            <certificates src="system" />-->
+<!--        </trust-anchors>-->
+
+        <!--  固定证书,预防中间人攻击  7.0  -->
+        <pin-set expiration="2021-01-01">
+            <pin digest="SHA-256">/6WD2EQVJUtFa3zd+7JlFZtf5NYejXZI/qmPKSZsY5I=</pin>
+            <pin digest="SHA-256">IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=</pin>
+        </pin-set>
+    </domain-config>
+
+</network-security-config>

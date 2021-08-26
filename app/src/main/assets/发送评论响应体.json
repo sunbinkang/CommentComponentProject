@@ -1,0 +1,29 @@
+
+{
+  "code": "0",
+  "msg": "请求处理成功",
+  "detail": "",
+  "head": {},
+  "body": {
+    "type": "0",
+    "commentContent": "522",
+    "resourceId": "002945",
+    "msgId": 116,
+    "rootCommentId": 0,
+    "replyCommentId": 0,
+    "feedMsgReplyCommentUserVo": {
+      "replyCommentUserId": 0,
+      "replyCommentUserName": "",
+      "sImgUrl": ""
+    },
+    "userId": 10186,
+    "userName": "15707974725",
+    "userImgUrl": "",
+    "likeCount": 0,
+    "replyTime": "2021-08-25 16:34:08",
+    "commentId": 375,
+    "isAuthor": 0,
+    "like": 0,
+    "commentCount": 0
+  }
+}

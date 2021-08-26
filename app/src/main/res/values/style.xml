@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogPictureSelect" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="dialogAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+
+    <!--评论弹框dialog的style-->
+    <style name="dialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <!--阴影  -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/BottomShowAnimation</item>
+        <!--弹窗背景是否变暗-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <!-- dialog从ios效果动画 向下渐变消失，向上渐变出现-->
+    <style name="BottomShowAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/enter_bottom_menu</item>
+        <item name="android:windowExitAnimation">@anim/exit_bottom_menu</item>
+    </style>
+
+</resources>

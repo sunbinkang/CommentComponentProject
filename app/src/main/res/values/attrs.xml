@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingTextView">
+        <attr name="loading_text" format="string" />
+        <attr name="loading_textColor" format="color" />
+        <attr name="loading_textSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="PraiseLayout">
+        <attr name="orientation_" format="integer">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+
+        <attr name="marginSize" format="dimension" />
+        <attr name="imageSize" format="dimension" />
+        <attr name="imageSrc" format="reference" />
+        <attr name="imageSrcHighLight" format="reference" />
+        <attr name="textcolor" format="color" />
+        <attr name="textsize" format="dimension" />
+    </declare-styleable>
+
+</resources>
